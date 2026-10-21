@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="190 0 410 400" role="img" aria-label="Tea leaves and a steaming cup">
+  <circle cx="420" cy="200" r="170" fill="#e7efdc"/>
+  <g transform="translate(250 110) rotate(-40) scale(1.4)"><path d="M0 -40 C 28 -24 28 24 0 40 C -28 24 -28 -24 0 -40 Z" fill="#6b8f4e"/><path d="M0 -34 L0 34" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/></g><g transform="translate(560 90) rotate(30) scale(1.1)"><path d="M0 -40 C 28 -24 28 24 0 40 C -28 24 -28 -24 0 -40 Z" fill="#4d6b36"/><path d="M0 -34 L0 34" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/></g><g transform="translate(560 340) rotate(120) scale(1.0)"><path d="M0 -40 C 28 -24 28 24 0 40 C -28 24 -28 -24 0 -40 Z" fill="#6b8f4e"/><path d="M0 -34 L0 34" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/></g>
+  <path d="M370 120 q-16 -24 0 -46 q16 -22 0 -44 M430 120 q-16 -24 0 -46 q16 -22 0 -44 M490 120 q-16 -24 0 -46 q16 -22 0 -44" stroke="#b5762a" stroke-width="6" fill="none" stroke-linecap="round" opacity=".6"/>
+  <path d="M530 190 q50 0 50 45 q0 45 -50 45" stroke="#3d261c" stroke-width="16" fill="none"/>
+  <path d="M320 150 h220 q-6 160 -110 160 q-104 0 -110 -160 z" fill="#5a3a2c"/>
+  <ellipse cx="430" cy="150" rx="110" ry="20" fill="#3d261c"/>
+  <ellipse cx="430" cy="150" rx="96" ry="13" fill="#b5762a"/>
+  <ellipse cx="430" cy="330" rx="150" ry="18" fill="rgba(0,0,0,.08)"/>
+</svg>

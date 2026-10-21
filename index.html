@@ -1,1 +1,170 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Kettle & Leaf Tea Co. sells small-batch loose-leaf tea and teaware."
+    />
+    <title>Kettle &amp; Leaf Tea Co. | Home</title>
+    <link rel="icon" href="./images/sencha.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true">🍃</span>
+          Kettle &amp; Leaf
+        </a>
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="site-nav"
+        >
+          Menu
+        </button>
+        <nav id="site-nav" class="site-nav" aria-label="Main">
+          <a href="./index.html" aria-current="page">Home</a>
+          <a href="./about.html">About</a>
+          <a href="./store.html">Store</a>
+        </nav>
+      </div>
+    </header>
 
+    <main>
+      <section class="hero">
+        <div class="container hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow">Small-batch loose-leaf tea</p>
+            <h1>Slow down. Steep something good.</h1>
+            <p class="lead">
+              We source single-estate teas directly from growers and pack them
+              fresh in Portland, so every cup tastes the way it did on the
+              mountain.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="./store.html">Shop the tea</a>
+              <a class="btn btn-ghost" href="./about.html">Our story</a>
+            </div>
+          </div>
+          <img
+            class="hero-art"
+            src="./images/hero.svg"
+            alt="A steaming cup of tea surrounded by tea leaves"
+            width="410"
+            height="400"
+          />
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container intro">
+          <h2>Tea worth taking your time over</h2>
+          <p>
+            Kettle &amp; Leaf started as a weekend stall at the farmers' market
+            and grew into a little shop with a big tasting bar. We stock fifteen
+            teas and tools at a time, chosen by tasting hundreds of samples a
+            season. If it's on our shelf, it's something we brew at home.
+          </p>
+          <ul class="perks">
+            <li>
+              <strong>Direct trade</strong>
+              <span>We buy straight from farms and co-ops we've visited.</span>
+            </li>
+            <li>
+              <strong>Packed fresh</strong>
+              <span>Tins are filled by hand in small weekly batches.</span>
+            </li>
+            <li>
+              <strong>Brewing help</strong>
+              <span>Every order ships with a steeping guide card.</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section section-alt">
+        <div class="container">
+          <h2 class="section-title">Featured categories</h2>
+          <div class="category-grid">
+            <a class="category-card cat-green" href="./store.html">
+              <img src="./images/matcha.svg" alt="" width="400" height="400" />
+              <h3>Green Tea</h3>
+              <p>Fresh, vegetal and sweet, from sencha to matcha.</p>
+            </a>
+            <a class="category-card cat-black" href="./store.html">
+              <img src="./images/assam.svg" alt="" width="400" height="400" />
+              <h3>Black Tea</h3>
+              <p>Malty, brisk and bold. Breakfast blends and beyond.</p>
+            </a>
+            <a class="category-card cat-oolong" href="./store.html">
+              <img
+                src="./images/tieguanyin.svg"
+                alt=""
+                width="400"
+                height="400"
+              />
+              <h3>Oolong</h3>
+              <p>Floral to roasty, and made for many infusions.</p>
+            </a>
+            <a class="category-card cat-herbal" href="./store.html">
+              <img
+                src="./images/chamomile.svg"
+                alt=""
+                width="400"
+                height="400"
+              />
+              <h3>Herbal</h3>
+              <p>Caffeine-free blends for any hour of the day.</p>
+            </a>
+            <a class="category-card cat-teaware" href="./store.html">
+              <img src="./images/teapot.svg" alt="" width="400" height="400" />
+              <h3>Teaware</h3>
+              <p>Pots, mugs and cups that make brewing a pleasure.</p>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container cta">
+          <h2>Find your next favorite cup</h2>
+          <p>Browse all fifteen teas and tools in our shop.</p>
+          <a class="btn btn-primary" href="./store.html">Visit the store</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <p class="footer-brand">Kettle &amp; Leaf Tea Co.</p>
+          <p>&copy; <span data-year>2026</span> Kettle &amp; Leaf Tea Co.</p>
+        </div>
+        <div>
+          <p class="footer-heading">Tasting bar hours</p>
+          <p>Tue–Fri 10am–6pm<br />Sat–Sun 9am–5pm</p>
+        </div>
+        <div>
+          <p class="footer-heading">Follow along</p>
+          <ul class="social">
+            <li>
+              <a href="#">Instagram</a>
+            </li>
+            <li>
+              <a href="#">Pinterest</a>
+            </li>
+            <li>
+              <a href="#">TikTok</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

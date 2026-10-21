@@ -1,1 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Shop loose-leaf tea and teaware from Kettle & Leaf Tea Co."
+    />
+    <title>Kettle &amp; Leaf Tea Co. | Store</title>
+    <link rel="icon" href="./images/sencha.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="./index.html">
+          <span class="brand-mark" aria-hidden="true">🍃</span>
+          Kettle &amp; Leaf
+        </a>
+        <button
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="site-nav"
+        >
+          Menu
+        </button>
+        <nav id="site-nav" class="site-nav" aria-label="Main">
+          <a href="./index.html">Home</a>
+          <a href="./about.html">About</a>
+          <a href="./store.html" aria-current="page">Store</a>
+        </nav>
+      </div>
+    </header>
 
+    <main>
+      <section class="page-banner">
+        <div class="container">
+          <p class="eyebrow">The shop</p>
+          <h1>Tea &amp; teaware</h1>
+          <p class="lead">
+            Loose-leaf teas and brewing tools, packed fresh every week.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="catalog-heading">
+        <div class="container">
+          <h2 id="catalog-heading" class="visually-hidden">Products</h2>
+          <ul id="product-grid" class="product-grid">
+            <!-- Product cards are rendered here by src/main.js -->
+          </ul>
+
+          <nav class="pagination" aria-label="Product pages">
+            <button id="prev-page" class="btn btn-page" type="button">
+              &larr; Previous
+            </button>
+            <p id="page-indicator" class="page-indicator" aria-live="polite">
+              Page 1 of 3
+            </p>
+            <button id="next-page" class="btn btn-page" type="button">
+              Next &rarr;
+            </button>
+          </nav>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <p class="footer-brand">Kettle &amp; Leaf Tea Co.</p>
+          <p>&copy; <span data-year>2026</span> Kettle &amp; Leaf Tea Co.</p>
+        </div>
+        <div>
+          <p class="footer-heading">Tasting bar hours</p>
+          <p>Tue–Fri 10am–6pm<br />Sat–Sun 9am–5pm</p>
+        </div>
+        <div>
+          <p class="footer-heading">Follow along</p>
+          <ul class="social">
+            <li>
+              <a href="#">Instagram</a>
+            </li>
+            <li>
+              <a href="#">Pinterest</a>
+            </li>
+            <li>
+              <a href="#">TikTok</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
