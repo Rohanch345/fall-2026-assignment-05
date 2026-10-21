@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Morning Sencha",
+    "price": 14.99,
+    "category": "Green Tea",
+    "description": "A bright, grassy Japanese green tea steamed to lock in its sweetness. Our everyday cup for slow mornings.",
+    "imageUrl": "./images/sencha.svg"
+  },
+  {
+    "id": 2,
+    "name": "Assam Breakfast",
+    "price": 12.99,
+    "category": "Black Tea",
+    "description": "Bold, malty Assam leaves that stand up beautifully to milk. A sturdy start to any day.",
+    "imageUrl": "./images/assam.svg"
+  },
+  {
+    "id": 3,
+    "name": "Tieguanyin Iron Goddess",
+    "price": 21.0,
+    "category": "Oolong",
+    "description": "A rolled Fujian oolong with orchid aromatics and a creamy finish. Rewards many short infusions.",
+    "imageUrl": "./images/tieguanyin.svg"
+  },
+  {
+    "id": 4,
+    "name": "Chamomile Honey",
+    "price": 11.99,
+    "category": "Herbal",
+    "description": "Whole Egyptian chamomile flowers blended with a hint of honeybush. Caffeine-free and made for winding down.",
+    "imageUrl": "./images/chamomile.svg"
+  },
+  {
+    "id": 5,
+    "name": "Cast Iron Teapot",
+    "price": 64.0,
+    "category": "Teaware",
+    "description": "A hand-finished 900 ml tetsubin with an enamel interior and stainless infuser. Holds heat for a long, lazy pour.",
+    "imageUrl": "./images/teapot.svg"
+  },
+  {
+    "id": 6,
+    "name": "Jasmine Pearls",
+    "price": 18.5,
+    "category": "Green Tea",
+    "description": "Hand-rolled green tea pearls scented with fresh jasmine blossoms over several nights. Watch them unfurl in the cup.",
+    "imageUrl": "./images/jasmine.svg"
+  },
+  {
+    "id": 7,
+    "name": "Earl Grey Lavender",
+    "price": 15.49,
+    "category": "Black Tea",
+    "description": "Ceylon black tea with cold-pressed bergamot and a soft touch of French lavender. A classic, gently reimagined.",
+    "imageUrl": "./images/earl-grey.svg"
+  },
+  {
+    "id": 8,
+    "name": "Milk Oolong",
+    "price": 19.99,
+    "category": "Oolong",
+    "description": "A Taiwanese Jin Xuan oolong with a naturally buttery, silky texture. No milk added, just remarkable leaves.",
+    "imageUrl": "./images/milk-oolong.svg"
+  },
+  {
+    "id": 9,
+    "name": "Peppermint Leaf",
+    "price": 9.99,
+    "category": "Herbal",
+    "description": "Cool, crisp whole-leaf peppermint grown in Oregon's Willamette Valley. Lovely hot or poured over ice.",
+    "imageUrl": "./images/peppermint.svg"
+  },
+  {
+    "id": 10,
+    "name": "Glass Infuser Mug",
+    "price": 22.0,
+    "category": "Teaware",
+    "description": "A 400 ml double-walled borosilicate mug with a removable fine-mesh infuser. Brew and sip from one vessel.",
+    "imageUrl": "./images/infuser-mug.svg"
+  },
+  {
+    "id": 11,
+    "name": "Ceremonial Matcha",
+    "price": 29.99,
+    "category": "Green Tea",
+    "description": "Stone-ground first-harvest matcha from Uji with a vivid color and smooth umami. Whisk it straight or into a latte.",
+    "imageUrl": "./images/matcha.svg"
+  },
+  {
+    "id": 12,
+    "name": "Smoky Lapsang",
+    "price": 16.99,
+    "category": "Black Tea",
+    "description": "Black tea leaves slowly dried over pinewood fires. Campfire-smoky, rich, and unforgettable.",
+    "imageUrl": "./images/lapsang.svg"
+  },
+  {
+    "id": 13,
+    "name": "Oriental Beauty",
+    "price": 24.5,
+    "category": "Oolong",
+    "description": "A heavily oxidized oolong with natural notes of honey and ripe peach. One of Taiwan's most celebrated teas.",
+    "imageUrl": "./images/oriental-beauty.svg"
+  },
+  {
+    "id": 14,
+    "name": "Rooibos Vanilla",
+    "price": 13.49,
+    "category": "Herbal",
+    "description": "South African red rooibos blended with Madagascar vanilla bean. Naturally sweet and caffeine-free.",
+    "imageUrl": "./images/rooibos.svg"
+  },
+  {
+    "id": 15,
+    "name": "Ceramic Tasting Cups",
+    "price": 34.0,
+    "category": "Teaware",
+    "description": "A set of four glazed stoneware cups sized for gongfu-style tasting. Each one is thrown by hand, so no two are alike.",
+    "imageUrl": "./images/tasting-cups.svg"
+  }
+]

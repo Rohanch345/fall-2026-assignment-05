@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Smoky Lapsang tin">
+  <rect width="400" height="400" fill="#efe2d8"/>
+  <circle cx="320" cy="80" r="70" fill="#f3e3c8" opacity=".7"/>
+  <ellipse cx="200" cy="336" rx="110" ry="14" fill="rgba(0,0,0,.08)"/>
+  <rect x="110" y="120" width="180" height="214" rx="16" fill="#5a3a2c"/>
+  <rect x="104" y="98" width="192" height="40" rx="10" fill="#3d261c"/>
+  <rect x="132" y="168" width="136" height="136" rx="68" fill="#f3e3c8"/>
+  <g transform="translate(200 250) rotate(0) scale(0.6)"><path d="M0 -40 C 28 -24 28 24 0 40 C -28 24 -28 -24 0 -40 Z" fill="#5a3a2c"/><path d="M0 -34 L0 34" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/></g><path d="M188 214 q-10 -14 0 -26 q10 -12 0 -24 M212 214 q-10 -14 0 -26 q10 -12 0 -24" stroke="#3d261c" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <rect x="124" y="140" width="10" height="180" rx="5" fill="rgba(255,255,255,.18)"/>
+</svg>

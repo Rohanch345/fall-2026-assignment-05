@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Rooibos Vanilla tin">
+  <rect width="400" height="400" fill="#f7e1e7"/>
+  <circle cx="320" cy="80" r="70" fill="#fff0f4" opacity=".7"/>
+  <ellipse cx="200" cy="336" rx="110" ry="14" fill="rgba(0,0,0,.08)"/>
+  <rect x="110" y="120" width="180" height="214" rx="16" fill="#c2577a"/>
+  <rect x="104" y="98" width="192" height="40" rx="10" fill="#94405c"/>
+  <rect x="132" y="168" width="136" height="136" rx="68" fill="#fff0f4"/>
+  <g transform="translate(200 238) rotate(-20) scale(0.9)"><path d="M0 -40 C 28 -24 28 24 0 40 C -28 24 -28 -24 0 -40 Z" fill="#c2577a"/><path d="M0 -34 L0 34" stroke="rgba(0,0,0,.18)" stroke-width="3" fill="none"/></g>
+  <rect x="124" y="140" width="10" height="180" rx="5" fill="rgba(255,255,255,.18)"/>
+</svg>

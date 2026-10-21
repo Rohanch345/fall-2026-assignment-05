@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Ceramic tasting cups">
+  <rect width="400" height="400" fill="#dfe9ea"/>
+  <circle cx="80" cy="80" r="60" fill="#f1f6f6" opacity=".8"/>
+  <ellipse cx="200" cy="340" rx="130" ry="14" fill="rgba(0,0,0,.08)"/>
+  
+  <path d="M76 180 h88 q-4 60 -44 60 q-40 0 -44 -60 z" fill="#4a6670"/>
+  <ellipse cx="120" cy="180" rx="44" ry="10" fill="#33484f"/>
+  <ellipse cx="120" cy="180" rx="36" ry="6" fill="#b5762a"/>
+  <path d="M236 180 h88 q-4 60 -44 60 q-40 0 -44 -60 z" fill="#4a6670"/>
+  <ellipse cx="280" cy="180" rx="44" ry="10" fill="#33484f"/>
+  <ellipse cx="280" cy="180" rx="36" ry="6" fill="#b5762a"/>
+  <path d="M116 260 h88 q-4 60 -44 60 q-40 0 -44 -60 z" fill="#4a6670"/>
+  <ellipse cx="160" cy="260" rx="44" ry="10" fill="#33484f"/>
+  <ellipse cx="160" cy="260" rx="36" ry="6" fill="#b5762a"/>
+  <path d="M196 260 h88 q-4 60 -44 60 q-40 0 -44 -60 z" fill="#4a6670"/>
+  <ellipse cx="240" cy="260" rx="44" ry="10" fill="#33484f"/>
+  <ellipse cx="240" cy="260" rx="36" ry="6" fill="#b5762a"/>
+</svg>
